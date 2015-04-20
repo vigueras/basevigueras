@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Base de Datos</string>
+    <string name="action_settings">Settings</string>
+    <string name="id_producto">ID prducto</string>
+    <string name="nombre_producto">Nombre del producto</string>
+    <string name="Tipo_producto">tipo de producto</string>
+    <string name="descripcion_producto">descripcion del producto</string>
+    <string name="precio">Precio</string>
+    <string name="cantidad_existente">cantidad en existencia</string>
+    <string name="color">color</string>
+
+    <string name="alta">Alta</string>
+    <string name="baja">Baja</string>
+    <string name="consulta">Consultar</string>
+    <string name="modificar">Modificar</string>
+    <string name="limpiar">Limpiar</string>
+
+</resources>
+
